@@ -35,7 +35,7 @@ import static org.mockito.Mockito.when;
 import static org.mockito.Mockito.verify;
 
 public class AwsHelperTest {
-
+//test test
     private static final String awsAccessKey = "ASIAIOSFODNN7EXAMPLE";
     private static final String awsSecretKey = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
     private static final String sessionToken = "sometoken";
